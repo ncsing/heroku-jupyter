@@ -18,5 +18,5 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
-    - pgcontents = 0.5.3
+    - pgcontents = 0.6.0
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
